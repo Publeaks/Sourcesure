@@ -1,9 +1,9 @@
-# Publeaks
+# Sourcesure
 
-This projects serves as a skeleton for the informative website of [Publeaks](https://www.publeaks.org) like initatives based [GlobaLeaks](https://www.globaleaks.org).
+This project is a fork of [Publeaks](https://github.com/Publeaks/Publeaks).
 
-The project is internationalized in multiple languages thanks to [Transifex](https://www.transifex.com/projects/p/publeaks/).
-- https://www.transifex.com/projects/p/publeaks/
+The project is internationalized in multiple languages thanks to [Transifex](https://www.transifex.com/projects/p/sourcesure/).
+- https://www.transifex.com/projects/p/sourcesure/
 
 More information can be found at:
 - [Publeaks Website](https://www.publeaks.org)
